@@ -1,4 +1,4 @@
-** EC2 Lost SSH Key Recovery – AWS Troubleshooting Lab
+**EC2 Lost SSH Key Recovery – AWS Troubleshooting Lab
 
 This project simulates a real-world AWS scenario where the SSH key to an EC2 instance is lost. Instead of terminating the instance or rebuilding it, I recovered access by working directly with the attached EBS volume.
 
